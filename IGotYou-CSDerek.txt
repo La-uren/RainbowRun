@@ -1,0 +1,5 @@
+It works now!
+
+We just needed to add all of the files in the WEBGL folder, untouched. Who would've known. 
+
+Much easier with the clone repository too. 
