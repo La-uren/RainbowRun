@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-LC-blackbelt-1.0";
 const contentToCache = [
-    "Build/4.19.loader.js",
-    "Build/4.19.framework.js",
-    "Build/4.19.data",
-    "Build/4.19.wasm",
+    "Build/4.23.loader.js",
+    "Build/4.23.framework.js",
+    "Build/4.23.data",
+    "Build/4.23.wasm",
     "TemplateData/style.css"
 
 ];

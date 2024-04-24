@@ -10,7 +10,7 @@
   </head>
   <body>
     <div id="unity-container">
-      <canvas id="unity-canvas" width=2100 height=925 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/4.19.loader.js";
+      var loaderUrl = buildUrl + "/4.23.loader.js";
       var config = {
-        dataUrl: buildUrl + "/4.19.data",
-        frameworkUrl: buildUrl + "/4.19.framework.js",
-        codeUrl: buildUrl + "/4.19.wasm",
+        dataUrl: buildUrl + "/4.23.data",
+        frameworkUrl: buildUrl + "/4.23.framework.js",
+        codeUrl: buildUrl + "/4.23.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "LC-blackbelt",
