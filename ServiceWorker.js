@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-LC-blackbelt-1.0";
 const contentToCache = [
-    "Build/5.23.24.loader.js",
-    "Build/5.23.24.framework.js",
-    "Build/5.23.24.data",
-    "Build/5.23.24.wasm",
+    "Build/rainbowrun.loader.js",
+    "Build/rainbowrun.framework.js",
+    "Build/rainbowrun.data",
+    "Build/rainbowrun.wasm",
     "TemplateData/style.css"
 
 ];
